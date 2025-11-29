@@ -63,6 +63,7 @@ Linux
 4. Instalar dependencias y ejecutar:
 
     make install   # Solo la primera vez
+   
     make run
 
 Nota: Si el gráfico no se abre automáticamente, copiar el link mostrado en la terminal en el navegador.
@@ -74,3 +75,4 @@ Funcionalidades
 - Cambiar parámetros iniciales y volver a graficar sin cerrar la interfaz.
 - Gráficos interactivos en el navegador con Plotly.
 - Fácil de ejecutar tanto en Windows como en Linux.
+
