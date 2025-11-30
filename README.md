@@ -1,7 +1,7 @@
 Graficadora de Tiro Parabólico
 ===============================
 
-Simula y grafica la trayectoria de un tiro parabólico a partir de parámetros iniciales ingresados por el usuario. 
+Simula y grafica la trayectoria de un tiro parabólico a partir de parámetros (posicion y velocidad) iniciales ingresados por el usuario. 
 Se puede usar mediante un ejecutable o ejecutando los archivos fuente en Python.
 
 ------------------------------------------------------------
@@ -64,7 +64,7 @@ Linux
 
 4. Instalar dependencias y ejecutar:
 
-    make install   # Solo la primera vez
+    make install   (Solo la primera vez)
    
     make run
 
@@ -77,6 +77,7 @@ Funcionalidades
 - Cambiar parámetros iniciales y volver a graficar sin cerrar la interfaz.
 - Gráficos interactivos en el navegador con Plotly.
 - Fácil de ejecutar tanto en Windows como en Linux.
+
 
 
 
