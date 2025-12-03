@@ -41,8 +41,8 @@ Windows
 2. Instalar Python si no está disponible: https://www.python.org/downloads/
 3. Instalar dependencias:
 
-   pip install numpy
-   pip install plotly
+   pip install numpy\
+   pip install plotly\
    pip install tk
 
 5. Ejecutar la interfaz:
@@ -59,7 +59,7 @@ Linux
 
 3. Crear y activar un entorno virtual:
 
-    python3 -m venv venv
+    python3 -m venv\
     source venv/bin/activate
 
 4. Instalar dependencias y ejecutar:
@@ -77,6 +77,7 @@ Funcionalidades
 - Cambiar parámetros iniciales y volver a graficar sin cerrar la interfaz.
 - Gráficos interactivos en el navegador con Plotly.
 - Fácil de ejecutar tanto en Windows como en Linux.
+
 
 
 
